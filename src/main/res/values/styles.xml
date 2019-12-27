@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="MyTheme" parent="android:Theme.Material.Light.DarkActionBar" >
+        <item name="android:colorAccent">@android:color/holo_blue_light</item>
+        <item name="android:statusBarColor">@android:color/background_dark</item>
+        <item name="android:colorForeground">@android:color/background_dark</item>
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:colorPrimary">@android:color/background_dark</item>
+        <item name="android:textColorPrimaryInverse">@android:color/background_light</item>
+        <item name="android:colorBackground">@android:color/background_dark</item>
+    </style>
+
+</resources>
